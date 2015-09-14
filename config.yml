@@ -1,0 +1,5 @@
+dispatcher: ./test.sh
+commands-list:
+  - locpush
+  - locpop
+  - locstack

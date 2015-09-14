@@ -1,0 +1,6 @@
+name: CommandDispatcher
+main: net.knuples.commanddispatch.CommandDispatch
+version: 140921
+author: uroskn
+description: >
+            Dsipatcher of commands to external program
